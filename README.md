@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm dhyaneshwaran</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width=""400" src="![image](https://github.com/user-attachments/assets/98a7f212-07b6-43b5-8e62-04740d76dc8d)
+<img align="right" alt="coding" width=""400" src="[[![image](https://github.com/user-attachments/assets/648ec891-8735-42a9-97c3-11de96566cc1)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl1b2d6emYwM2NuNno2OTEyemE3NWF0OW43OXV0MzZ0ZjdpZTVrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
+](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl1b2d6emYwM2NuNno2OTEyemE3NWF0OW43OXV0MzZ0ZjdpZTVrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
 ">
 
 
